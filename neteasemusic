@@ -1,0 +1,7 @@
+
+http=106.52.127.72:19951,over-tls=false,fast-open=false,udp-relay=false,tag=Unlock
+
+http=taron.top:100,over-tls=false,fast-open=false,udp-relay=false,tag=Unlock1
+
+http=music.griouges.cn:39000,over-tls=false,fast-open=false,udp-relay=false,tag=Unlock2
+
