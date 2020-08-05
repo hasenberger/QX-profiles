@@ -5,3 +5,9 @@ http=taron.top:100,over-tls=false,fast-open=false,udp-relay=false,tag=Unlock1
 
 http=music.griouges.cn:39000,over-tls=false,fast-open=false,udp-relay=false,tag=Unlock2
 
+http=35.220.246.15:8080, fast-open=false, udp-relay=false, tag=Unlock NetEaseMusic by Alvinsea
+http=106.15.250.108:30000, fast-open=false, udp-relay=false, tag=NetEaseMusic A
+http=music.desperadoj.com:30002, username=Netease Music, password=none, fast-open=false, udp-relay=false, tag=NetEaseMusic B
+http=120.55.164.155:9090, username=Netease Music, password=none, fast-open=false, udp-relay=false, tag=NetEaseMusic C
+ss://Y2hhY2hhMjAtaWV0ZjptdXNpY2xpQDEyMC41NS4xNjQuMTU1OjE4ODg4#NetEaseMusic D
+ss://YWVzLTEyOC1nY206ZGVzcGVyYWRvai5jb21AbXVzaWMuZGVzcGVyYWRvai5jb206MzAwMDM#NetEaseMusic E
